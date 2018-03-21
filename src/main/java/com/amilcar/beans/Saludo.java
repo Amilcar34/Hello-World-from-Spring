@@ -10,7 +10,5 @@ public class Saludo {
 	public void setSaludo(String saludo) {
 		this.saludo = saludo;
 	}
-	
-	
 
 }
